@@ -1,5 +1,5 @@
 # OUTPUT
-zipthought-eta.vercel.app
+https://zipthought-eta.vercel.app/
 
 # Getting Started with Create React App
 
